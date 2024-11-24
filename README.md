@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://julianthedev.netlify.app/">
-  <img height="200" alt="Julian Coleman Software Engineer" src="C:\Users\colew\Downloads\Black and Yellow Modern Monogram Logo (1).png">  
+  <img height="200" alt="Julian Coleman Software Engineer" src="">  
   </a>
 </p>
 <h1 align="center">👋 Hi, I’m Julian, a web developer and software engineer </h1>
