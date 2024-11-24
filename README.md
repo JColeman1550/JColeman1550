@@ -3,7 +3,7 @@
   <img height="200" alt="Julian Coleman Software Engineer" src="https://raw.githubusercontent.com/JColeman1550/JColeman1550/refs/heads/main/Black%20and%20Yellow%20Modern%20Monogram%20Logo%20(1).png">  
   </a>
 </p>
-<h1 align="center">👋 Hi, I’m Julian, a web developer and software engineer </h1>
+<h1 align="center">Hi, I’m Julian, a web developer and software engineer </h1>
 <ul>
   <li> Pronouns: he/his</li>
 <li>⚡ Tech stack: MERN (MongoDB, Express, React, Node.js) + Python, R, and front-end technologies (HTML5/CSS3/JavaScript)</li>
