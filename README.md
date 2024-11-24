@@ -57,15 +57,4 @@
   </a>
 </p>
 
-<h3 align="center">Connect</h3>
-<p align="center"> 
-  <a href="https://julianthedev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/juliantcoleman/">
-    <img src="https://img.shields.io/badge/LinkedIn-rgb(169%2C133%2C102)?style=for-the-badge&logoColor=%23DDE4B7"  alt="LinkedIn">
-  </a>
-  <a href="https://x.com/Julian__TD" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-rgb(221%2C228%2C183)?style=for-the-badge&logoColor=%23DDE4B7" alt="Twitter" />
-  </a>
-  
+
