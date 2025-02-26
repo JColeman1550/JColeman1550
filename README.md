@@ -17,7 +17,8 @@
 
 <p align="center"> 
 <a href="https://julianthedev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rgb(128%2C0%2C0)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio style="border-radius: 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-rgb(128%2C0%2C0)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio" style="border-radius: 10px;">
+
 </a>
 <a href="https://www.linkedin.com/in/juliantcoleman/">
     <img src="https://img.shields.io/badge/LinkedIn-rgb(255%2C215%2C0)?style=for-the-badge&logoColor=%23DDE4B7" alt="LinkedIn">
