@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://julianthedev.netlify.app/">
-  <img height="200" style="border-radius: 10px; alt="Julian Coleman Software Engineer" src="https://raw.githubusercontent.com/JColeman1550/JColeman1550/refs/heads/main/Black%20and%20Yellow%20Modern%20Monogram%20Logo%20(1).png">  
+  <img height="200"  alt="Julian Coleman Software Engineer" src="https://raw.githubusercontent.com/JColeman1550/JColeman1550/refs/heads/main/Black%20and%20Yellow%20Modern%20Monogram%20Logo%20(1).png">  
   </a>
 </p>
 <h1 align="center">Hi, I’m Julian, a web developer and software engineer </h1>
@@ -17,7 +17,7 @@
 
 <p align="center"> 
 <a href="https://julianthedev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-rgb(128%2C0%2C0)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-rgb(128%2C0%2C0)?style=for-the-badge&logoColor=%23DDE4B7" alt="Portfolio style="border-radius: 10px;">
 </a>
 <a href="https://www.linkedin.com/in/juliantcoleman/">
     <img src="https://img.shields.io/badge/LinkedIn-rgb(255%2C215%2C0)?style=for-the-badge&logoColor=%23DDE4B7" alt="LinkedIn">
