@@ -4,8 +4,8 @@
   </a>
 </p>
 <h1 align="center">Hi, I’m Julian, a web developer and software engineer </h1>
+<span>Pronouns: he/his</span>
 <ul>
-  <li> Pronouns: he/his</li>
 <li>⚡ Tech stack: MERN (MongoDB, Express, React, Node.js) + Python, R, and front-end technologies (HTML5/CSS3/JavaScript)</li>
 <li>⚾ Passionate about baseball analytics and web development, combining tech and sports to solve unique challenges.</li>
 <li>🌱 Currently developing an app designed to support youth pitcher development by logging pitch data in real-time.</li>
